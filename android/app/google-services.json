@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1050203828944",
+    "firebase_url": "https://applandproyects.firebaseio.com",
+    "project_id": "applandproyects",
+    "storage_bucket": "applandproyects.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050203828944:android:a6bf4daba424b292bde4d5",
+        "android_client_info": {
+          "package_name": "com.snapbynative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050203828944-prcq9gbp43o4epod6ph6jdsc0qjcbsac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzcLzp7N3BJjPHNDUpjrUjtFL9adEPOOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050203828944-prcq9gbp43o4epod6ph6jdsc0qjcbsac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
